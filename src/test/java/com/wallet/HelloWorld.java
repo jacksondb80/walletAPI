@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class HelloWorld {
 	
 	@Test
-	public void testhelloworld() {
+	public void testHelloWorld() {
 		assertEquals(1, 1);
 		
 	}
